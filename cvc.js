@@ -5,3 +5,5 @@ var steve = function(){
 }
 
 EXISTE O STEVE VAI, STEVE JOBS E O STEVE DROP.
+
+STEVE NAO É APELIDO, É NOME.
