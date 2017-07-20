@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 var steve = function(){
 =======
- var steve = function(){
+ var steveVaiSteveJobsSteveDrop = function(){
 >>>>>>> 8154fc65f9b784e79c78245819305de2886c7413
     var drop, curso;
 
