@@ -1,1 +1,0 @@
-function teste(){console.log};
