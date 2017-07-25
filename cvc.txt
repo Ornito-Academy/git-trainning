@@ -3,4 +3,8 @@ dfsd
 fsdf
 sdfsd
 :reuwyriewureuiwrteste 
+<<<<<<< HEAD
+
+=======
 teste1
+>>>>>>> 616ca65bb59577b54b2324eeb0f9a1066b7c225b
