@@ -1,4 +1,4 @@
 function teste () { 
-	let x =      "a";
+	let x = "a";
 }
 
