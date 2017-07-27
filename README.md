@@ -1,3 +1,3 @@
 ﻿# Ornito Academy
-ConflitoTK
+ConflitoTK resolvido!
 Repositório para o treinamento: Trabalhando com o git
