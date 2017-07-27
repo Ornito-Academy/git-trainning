@@ -1,3 +1,4 @@
-﻿function teste () { 
+function teste () { 
 	let x =      "a";
 }
+
