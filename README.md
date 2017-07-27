@@ -1,2 +1,1 @@
-﻿﻿# Ornito Academy
-CVC - LIVELO
+﻿PALMEIRAS NÃO TEM MUNDIAL
