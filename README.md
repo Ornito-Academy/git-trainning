@@ -1,1 +1,1 @@
-﻿Onde está o Wally?
+Onde está o Wally?
