@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+dfghgfre
+=======
 
 
 Testando + alteração.
+>>>>>>> a9d295aae53ddb35494d93f5f4bf11861f14c56b
