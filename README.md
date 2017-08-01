@@ -1,4 +1,4 @@
-function teste () { 
-	let x =	"a";
-}
+Repositório para o treinamento
+	#Trabalhando com o GIT
+Ornito Academy
 
