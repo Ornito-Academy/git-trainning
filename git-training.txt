@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-dfghgfre
-=======
-
-
-Testando + alteração.
->>>>>>> 6dc364d3d2bee5946f3a109a88333fcfe1028c46
